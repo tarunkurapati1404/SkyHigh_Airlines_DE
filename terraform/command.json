@@ -1,0 +1,5 @@
+{
+  "Name": "glueetl",
+  "ScriptLocation": "s3://skyhigh-airlines-lake-b844ab7b/scripts/glue_flight_cleaning.py",
+  "PythonVersion": "3"
+}
